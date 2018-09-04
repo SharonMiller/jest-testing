@@ -8,7 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "jest **/*.tst.js"
+    "test": "jest **/*.test.js"
   },
   "repository": {
     "type": "git",
