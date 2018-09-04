@@ -1,0 +1,26 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "This is a basic example of how to use Jest testing framework with Travis-ci.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest **/*.tst.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharonMiller/jest-testing.git"
+  },
+  "author": "Sharon Miller </sharonmillerdev@gmail.com> (https://www.sharonmillercreative.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharonMiller/jest-testing/issues"
+  },
+  "homepage": "https://github.com/SharonMiller/jest-testing#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
